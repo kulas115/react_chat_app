@@ -1,8 +1,10 @@
-Simple chat application created in react. It is using simple array to hold data and both participants already have proper names assigned (John and Luke).
+## Simple chat application created in react.
+
+### It is using simple array to hold data and both participants already have proper names assigned (John and Luke).
 
 You can access version deployed to gh-pages under: https://kulas115.github.io/react_chat_app
 
-#####################
+###################################################
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
